@@ -13,19 +13,16 @@
       integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
       crossorigin="anonymous" referrerpolicy="no-referrer" />
    <style>
-      
       /* basic styles which style the whole page using the universial selector*/
       * {
          padding: 0;
          margin: 0;
       }
-      
       /* For the whole body background color and margin for the whole website */
       body {
          margin: 4%;
          background: linear-gradient(135deg, #1E3C72, #2A5298, #6DD5ED);
       }
-      
       /* This is the css style for the main container which contains all of the content inside of it */
       .main-container {
          color: #F8FAFC;
@@ -41,7 +38,6 @@
          backdrop-filter: blur(14px);
          border: 1px solid rgba(255, 255, 255, 0.25);
       }
-      
       /* For the main container header which holds all the content of the nav bar */
       .main-container-header {
          margin: 10px;
